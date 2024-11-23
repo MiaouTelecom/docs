@@ -1,0 +1,13 @@
+  __  __ _                     _______   _                          
+ |  \/  (_)                   |__   __| | |                         
+ | \  / |_  __ _  ___  _   _     | | ___| | ___  ___ ___  _ __ ___  
+ | |\/| | |/ _` |/ _ \| | | |    | |/ _ \ |/ _ \/ __/ _ \| '_ ` _ \ 
+ | |  | | | (_| | (_) | |_| |    | |  __/ |  __/ (_| (_) | | | | | |
+ |_|  |_|_|\__,_|\___/ \__,_|    |_|\___|_|\___|\___\___/|_| |_| |_|
+                                                                    
+-- OFF-NETWORK PROCEDURE --
+-- ENGLISH VERSION --
+
+1. Unplug the WAN/LAN network port,
+2. Open the CMD on a Windows computer and type: "netstat -ano",
+   If there is a suspicious program or IP address, turn off the computer/workstation and contact Miaou Telecom customer service

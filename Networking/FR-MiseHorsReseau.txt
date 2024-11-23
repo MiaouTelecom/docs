@@ -1,0 +1,13 @@
+  __  __ _                     _______   _                          
+ |  \/  (_)                   |__   __| | |                         
+ | \  / |_  __ _  ___  _   _     | | ___| | ___  ___ ___  _ __ ___  
+ | |\/| | |/ _` |/ _ \| | | |    | |/ _ \ |/ _ \/ __/ _ \| '_ ` _ \ 
+ | |  | | | (_| | (_) | |_| |    | |  __/ |  __/ (_| (_) | | | | | |
+ |_|  |_|_|\__,_|\___/ \__,_|    |_|\___|_|\___|\___\___/|_| |_| |_|
+                                                                    
+-- PROCEDURE DE MISE HORS-RÉSEAU --
+-- VERSION FRANCAISE --
+
+1. Débrancher le port réseau WAN ou LAN,
+2. Ouvrir le CMD sur un poste Windows et taper : "netstat -ano",
+   Si un programme ou adresse IP suspect(e), éteignez l'ordinateur/poste de travail et contactez le service client Miaou Telecom
